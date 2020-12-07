@@ -1,0 +1,12 @@
+me/potato/config/GreetingConfigurationType03.java
+ me.potato.config.GreetingConfigurationType03
+ me.potato.config.GreetingConfigurationType03$ContentConfig
+me/potato/config/DefaultConfigurationType.java
+ me.potato.config.DefaultConfigurationType
+ me.potato.config.DefaultConfigurationType$ContentConfig
+me/potato/config/GreetingConfigurationType02.java
+ me.potato.config.GreetingConfigurationType02
+me/potato/SampleResource.java
+ me.potato.SampleResource
+me/potato/config/GreetingConfigurationType01.java
+ me.potato.config.GreetingConfigurationType01

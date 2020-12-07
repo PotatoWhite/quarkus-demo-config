@@ -1,0 +1,2 @@
+me/potato/SampleResourceTest.java
+ me.potato.SampleResourceTest

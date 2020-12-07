@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.potato.SampleResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-07T04:57:40" hostname="potato-pop" time="2.269">
+  <properties/>
+  <testcase name="testSampleEndpoint()" classname="me.potato.SampleResourceTest" time="2.269"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 07, 2020 1:57:38 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Dec 07, 2020 1:57:39 PM io.quarkus.arc.processor.BeanProcessor$PrivateMembersCollector log
+INFO: Found unrecommended usage of private members (use package-private instead) in application beans:
+	- @Inject field me.potato.SampleResource#activeProfile,
+	- @Inject field me.potato.SampleResource#configuration,
+	- @Inject field me.potato.SampleResource#configurationType01
+	- and 5 more - please enable debug logging to see the full list
+Dec 07, 2020 1:57:40 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Dec 07, 2020 1:57:40 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Quarkus 1.10.2.Final on JVM started in 2.380s. Listening on: http://localhost:8081
+Dec 07, 2020 1:57:40 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Profile test activated. 
+Dec 07, 2020 1:57:40 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Installed features: [cdi, resteasy]
+]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+'%dev':
+  greeting:
+    message: YamlHelloDevProfile
+'%native':
+  greeting:
+    message: HelloNativeevProfile
+dev:
+  greeting:
+    content:
+      prize-amount: 10
+      recipents: potato, tomato
+    message: HelloDev
+    name: potato
+    suffix: '!'
+greeting:
+  content:
+    prize-amount: 10
+    recipents: potato, tomato
+  message: Hello
+  name: potato
+  suffix: '!'
